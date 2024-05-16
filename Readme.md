@@ -31,7 +31,7 @@ Ao executar o script, você verá o menu interativo a seguir:
     2. Visualizar Itens
     3. Registrar Item Como Comprado
     4. Remover Item
-    5. Sair do Programa <br>
+    5. Sair do Programa
     Escolha uma das opções acima: 
 
 ### Adicionar Item
